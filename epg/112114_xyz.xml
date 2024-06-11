@@ -68157,6 +68157,9 @@
 	<programme channel="黑莓电影" start="20240612035300 +0800" stop="20240612055600 +0800">
 		<title lang="zh">破碎的拥抱</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240612055600 +0800" stop="20240612072400 +0800">
+		<title lang="zh">鲨鱼啾大战乌贼娘</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -68664,6 +68667,9 @@
 	<programme channel="newtv超级体育" start="20240612040000 +0800" stop="20240612060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年汤姆斯杯羽毛球赛 1/4决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240612060000 +0800" stop="20240612063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -68706,6 +68712,9 @@
 	<programme channel="newtv超级电视剧" start="20240612051500 +0800" stop="20240612055900 +0800">
 		<title lang="zh">14_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240612055900 +0800" stop="20240612064200 +0800">
+		<title lang="zh">15_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -68729,6 +68738,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240612051500 +0800" stop="20240612060000 +0800">
 		<title lang="zh">30_天龙八部</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240612060000 +0800" stop="20240612064600 +0800">
+		<title lang="zh">31_天龙八部</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -68763,6 +68775,9 @@
 	<programme channel="newtv精品纪录" start="20240612051000 +0800" stop="20240612055800 +0800">
 		<title lang="zh">06_台前幕后</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240612055800 +0800" stop="20240612064100 +0800">
+		<title lang="zh">第9集：军旅出身的皇帝</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -68789,6 +68804,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240612051300 +0800" stop="20240612055300 +0800">
 		<title lang="zh">16_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240612055300 +0800" stop="20240612063300 +0800">
+		<title lang="zh">17_民国恩仇录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -68862,6 +68880,9 @@
 	<programme channel="newtv热播精选" start="20240612050300 +0800" stop="20240612055000 +0800">
 		<title lang="zh">43_古董局中局之掠宝清单</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240612055000 +0800" stop="20240612063700 +0800">
+		<title lang="zh">44_古董局中局之掠宝清单</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -68924,6 +68945,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240612053300 +0800" stop="20240612060000 +0800">
 		<title lang="zh">海底万花筒——与珊瑚礁共生（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240612060000 +0800" stop="20240612082000 +0800">
+		<title lang="zh">京剧《生死恨》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -69018,6 +69042,9 @@
 	<programme channel="newtv炫舞未来" start="20240612052200 +0800" stop="20240612060000 +0800">
 		<title lang="zh">草本养生健康宝典（1）（20240501）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240612060000 +0800" stop="20240612060300 +0800">
+		<title lang="zh">大摇大摆迎春来-饶子龙（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -69035,6 +69062,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240612050600 +0800" stop="20240612055000 +0800">
 		<title lang="zh">12_雪豹坚强岁月</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240612055000 +0800" stop="20240612063400 +0800">
+		<title lang="zh">13_雪豹坚强岁月</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -69137,6 +69167,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240612051200 +0800" stop="20240612054600 +0800">
 		<title lang="zh">洲际次轻量级拳王争霸赛：罗梅罗VS拉米雷斯</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240612054600 +0800" stop="20240612063800 +0800">
+		<title lang="zh">超中量级世界冠军争霸赛：莫雷尔VS叶尔博西努利</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
