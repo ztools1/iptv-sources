@@ -291,7 +291,7 @@
 [SD]山东教育,https://stream1.freetv.fun/bcf891534c04783c18cd6d01b62566c645baae0bdd9c114b7cb25b80b6a417ab.m3u8
 [SD]山东文旅,https://stream1.freetv.fun/71b214b84fa1214e6c77ebb53184b53c3f6cf861f4f48b2faba49c64e8a0d9a6.ctv
 [SD]岭南戏曲频道,https://stream1.freetv.fun/7c0bcf4a959f2fcb86cc1af4e1acf29ef458418d43abe6f9d52ef960cf47fb4a.m3u8
-[BD]常州新闻综合,https://stream1.freetv.fun/cecca7d8024ff726e7dfda53996b452ca08829bd61d985f2756b3a16d4d466c2.m3u8
+[BD]常州新闻综合,https://stream1.freetv.fun/aa9c2f0c578d8c0576faddbee6275c2b216971de0505159834ac9bb2325f865b.m3u8
 [BD]广西乐思购,https://stream1.freetv.fun/2d2009ab82397131ef951799305444ff9b8ddea1678ff4eabedaab484dae9ad3.m3u8
 [VGA]爱家购物,https://stream1.freetv.fun/01920761982e5b5d3bb7002dbc73ba2beb3a012456822a73568c3441289035f3.m3u8
 [HD]成都少儿,https://stream1.freetv.fun/c1986d6b2018411aad6e225da29062773973f8951e2a3022e1bbe8295f11601f.ctv
@@ -500,7 +500,7 @@
 [SD]山东教育卫视,https://stream1.freetv.fun/fbe11dbd31726bbda930fe4441fbc3d381d1c568595239e706bc9da18520fb38.m3u8
 [BD]山东卫视[ipv6],https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8
 [BD]山西卫视,rtmp://live-stream.lsxrmtzx.com/live/video
-[BD]常州公共,https://stream1.freetv.fun/6791edd12c2de0cf855ae36c5a16885ecd50aa3eaf26b9a44c6396613210d2b6.m3u8
+[BD]常州公共,https://stream1.freetv.fun/38539f51822de7331d20918f108daad1ae8094b3e51f7a340c134218b5e0adc1.m3u8
 [BD]常州生活,https://stream1.freetv.fun/d484a499b23e6c910cd71bde3a394b6ae4b3bf14507cd6de471fc08040364706.m3u8
 [SD]康巴卫视[ipv6],https://stream1.freetv.fun/4a7f901d517897aa0bf1ff684b61423b1e107da6ea3b0bccc233526fba9cdf99.m3u8
 [SD]厦门卫视,https://stream1.freetv.fun/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.m3u8
