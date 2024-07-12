@@ -54,7 +54,7 @@
 | 48 | [VGA]aaj tak | stream1.freetv.fun | <https://stream1.freetv.fun/7a5b2b0f0dff95940f25312e999bad78add2c31ed7adbbb8b8f4cf9802c27074.m3u8> |
 | 49 | [VGA]aastha | stream1.freetv.fun | <https://stream1.freetv.fun/8734a610e0504414136b91981f1d85fb8cfc1576cd6580c8a7ea0c30ee4016d1.m3u8> |
 | 50 | [HD]alba 1 hd | stream1.freetv.fun | <https://stream1.freetv.fun/2ac11f3bd9320e626bcb961431b7bd962c31e6cab2f750d1d98f0d6a777075ae.m3u8> |
-| 51 | [HD]abc | stream1.freetv.fun | <https://stream1.freetv.fun/073b59cc195326e94dd9ba3597f09d2ae196b759b5d4c352721ffff0ada05d49.m3u8> |
+| 51 | [HD]abc | stream1.freetv.fun | <https://stream1.freetv.fun/a56dbc415fad05a0766cba81e61ab930ae127df7d2c415a99d17c1414cf24111.ctv> |
 | 52 | [HD]abc australia | stream1.freetv.fun | <https://stream1.freetv.fun/1b6285653f4fe5545e4e4aa4811354a8f5cd2f673fff51e9eb7ed879c91f450a.ctv> |
 | 53 | [HD]abc hd | stream1.freetv.fun | <https://stream1.freetv.fun/a7b8cbc7b04b772f5ccce5a53697dcd71bceeacbb743804b42ca4d8e1829c0ac.m3u8> |
 | 54 | [SD]abc news live 2 | stream1.freetv.fun | <https://stream1.freetv.fun/ef6e1c6aa653a4f07520c9b51926ca7e73ad7cd768d224ef5c9cb8666b60f000.m3u8> |
@@ -393,7 +393,7 @@
 | 387 | [VGA]miracle channel (576p) | stream1.freetv.fun | <https://stream1.freetv.fun/014c9bca913d11dfac3dca0dab3a908cb8386dbffe1003c2cab863e9a2991b0b.m3u8> |
 | 388 | [HD]ramachannel | stream1.freetv.fun | <https://stream1.freetv.fun/439553c82bf0835b129ebbdd5b73c78473473799da7eeca558d2f9ba71d9f2af.m3u8> |
 | 389 | [BD]tennis channel | stream1.freetv.fun | <https://stream1.freetv.fun/9d741f7a69392950497ff7540a55c1dffda3c541e9e2e672be1d8ce8eb40afc0.ctv> |
-| 390 | [BD]chc动作电影[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/15258d3d4e90d77fee94d248c85f1f13dc842bf3f9bf804e3884c45abf42f273.m3u8> |
+| 390 | [BD]chc动作电影 | stream1.freetv.fun | <https://stream1.freetv.fun/7946cfbf7a25f09bf7af9af6724dd7390b5f7995454f354908695f819f161f3c.ctv> |
 | 391 | [BD]chc家庭影院[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/16f1eb82e9c0595d7a29810b7259a0d02481e4c8c41bd426fa9843a4f4c97ea5.m3u8> |
 | 392 | [BD]chc高清电影 | stream1.freetv.fun | <https://stream1.freetv.fun/c768ec2110a9e5e8f60193b5b1574d472e38f568e82e645755e768af8aa8de9e.ctv> |
 | 393 | [BD]nci | stream1.freetv.fun | <https://stream1.freetv.fun/02ad644cc816a15b4903bcebc5e9d61d0e0a1ec10aa5ecce4375aa34951e5758.m3u8> |
@@ -1729,7 +1729,7 @@
 | 1723 | [BD]unbeaten | stream1.freetv.fun | <https://stream1.freetv.fun/e3b0f9d3177145f3550f1ae1f4f1b4d5963fda5d9f96fe694772d2ace5adeb70.m3u8> |
 | 1724 | [HD]unimás | stream1.freetv.fun | <https://stream1.freetv.fun/9180167d5cc01e6a44ef9659d97c5ede1795c806e9ec7089bc58d9945500159e.m3u8> |
 | 1725 | [VGA]universal | stream1.freetv.fun | <https://stream1.freetv.fun/3882d7cd4b25bbd5852d9d7b0398fd4b0f72d3f8c48ce7a5edbafbaa58266458.ctv> |
-| 1726 | [HD]美国测试universal kids | stream1.freetv.fun | <https://stream1.freetv.fun/af14c7f23d605805ffdeb78181908f3f1b89ca1845257683283716f1b27e80a8.ctv> |
+| 1726 | [BD]美国测试universal kids | stream1.freetv.fun | <https://stream1.freetv.fun/af14c7f23d605805ffdeb78181908f3f1b89ca1845257683283716f1b27e80a8.ctv> |
 | 1727 | [BD]swerve sports | stream1.freetv.fun | <https://stream1.freetv.fun/b7afa6225539c264e91fe90b8dd9ff3f772475c3f17903a1b7465bab5b8a490e.m3u8> |
 | 1728 | [BD]handicap tv france | stream1.freetv.fun | <https://stream1.freetv.fun/85cce9da788504d61b15abae7939aebfa081d4d20b10b537a53280e2c4d4b539.m3u8> |
 | 1729 | [BD]utv | stream1.freetv.fun | <https://stream1.freetv.fun/6c59da3acfc2a335cb2ef290db3611cd6b2e83e5ee9c061852f96365f2afb28d.m3u8> |
@@ -2463,4 +2463,4 @@
 | 2457 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 | 2458 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Jul 11 2024 22:19:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jul 12 2024 01:24:02 GMT+0000 (Coordinated Universal Time)**
